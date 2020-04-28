@@ -6,7 +6,8 @@
 <li>Run <code>npm install</code></li>
 <li>Run <code>gulp</code> to run the default Gulp task</li>
 </ul>
-<p>In this proejct, Gulp is configured to run the following functions:</p>
+
+<p>Gulp is configured to run the following functions:</p>
 <ul>
 <li>Compile the SCSS files to CSS</li>
 <li>Autoprefix and minify the CSS file</li>
